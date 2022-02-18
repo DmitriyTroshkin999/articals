@@ -24,7 +24,7 @@
     <div class="container">
         <div class="d-flex flex-wrap flex-row">
             <div class="col-2">
-                <a href="/" class="logo"><p class="mb-md-0">LOGO</p></a>
+                <a href="/" class="logo"><p class="mt-2">LOGO</p></a>
             </div>
             <div class="col-10">
                 <ul class="nav justify-content-end mb-md-0">

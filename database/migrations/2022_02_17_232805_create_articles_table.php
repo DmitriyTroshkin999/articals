@@ -17,6 +17,7 @@ class CreateArticlesTable extends Migration
             $table->id();
             $table->string('theme');
             $table->text('artmessage');
+            $table->string('img');
             $table->bigInteger('views');
             $table->bigInteger('likes');
             $table->string('slug')->unique();

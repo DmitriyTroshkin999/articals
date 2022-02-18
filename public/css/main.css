@@ -1,0 +1,9 @@
+.active{
+    color: darkorange;
+}
+.active:hover{
+    color: darkorange;
+}
+.logo{
+    text-decoration: none;
+}
